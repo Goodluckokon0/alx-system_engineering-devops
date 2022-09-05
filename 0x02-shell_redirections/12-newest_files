@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la | head -n 10 | wc -l
